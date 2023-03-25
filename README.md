@@ -32,6 +32,7 @@
 <p>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
+ <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white" />
 </p>
 </div>
 
