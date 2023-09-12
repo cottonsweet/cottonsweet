@@ -22,6 +22,7 @@
 </div>
 
 ### 백엔드
+
 <div>
 <p>firebase</p>
 </div>
@@ -41,5 +42,6 @@
 #
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstipdev&layout=compact&theme=vue-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sstipdev&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
