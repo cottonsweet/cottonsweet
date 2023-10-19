@@ -24,7 +24,7 @@
 
   <div class="state-management-tool">
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />
-    <img src="https://img.shields.io/badge/ReduxToolkit-593D88?style=flat&logo=Redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-Toolkit-593D88?style=flat&logo=Redux&logoColor=white" />
   </div>
 
   <div class="css-in-js css-lib css-fr">
@@ -75,7 +75,7 @@
   </div>
 
   <br/>
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstipdev&layout=compact&theme=vue-dark)
 <br/>
 
