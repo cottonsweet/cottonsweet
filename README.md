@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=21,22,23&height=230&section=header&text=Welcome%20LK%20GitHub&fontAlign=48&fontAlignY=35&_render&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&duration=3500&pause=700&color=D77A06&center=true&vCenter=true&multiline=true&random=false&width=500&height=70&lines=Hi+there%2C++I'm+Cotton;Front-end+Developer)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsstipdev%2Fhit-counter&count_bg=%2369CF7D&title_bg=%234F3838&icon=eclipsemosquitto.svg&icon_color=%23D1BD73&title=visitant&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23866A3D&title_bg=%23585A3F&icon=adobeillustrator.svg&icon_color=%23DFBE86&title=+Number+of+Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=sstipdev&data=followers,repositories,stars,commits"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=sstipdev&data=followers,repositories,stars,commits&theme=carbon"/>
 
-`🛠Tech Stacks🛠 `
+```🛠Tech Stacks🛠```
 
 #### 프론트
 
