@@ -71,7 +71,7 @@
 #### List
 
   <div>
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=HTML5,CSS3,JavaScript,TypeScript,Lua&frameworks=next,Bootstrap,TailwindCSS&libraries=ReactJS,jQuery&software-ides=Linux,Windows,VSCode&tools=Git,NPM,Yarn,Firebase,AWS,Vercel,Prettier&includeNames=true&themes=material" >
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=HTML5,CSS3,sass,JavaScript,TypeScript,Lua,json&frameworks=ReactJS,NextJS,Bootstrap,TailwindCSS&libraries=jQuery&tools=Git,nodejs,NPM,Yarn,Firebase,AWS,Vercel&includeNames=true&software=windows,vscode" >
   </div>
 
   <br/>
