@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&duration=3500&pause=700&color=D77A06&center=true&vCenter=true&multiline=true&random=false&width=500&height=70&lines=Hi+there%2C++I'm+Cotton;Front-end+Developer)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsstipdev%2Fhit-counter&count_bg=%23866A3D&title_bg=%23585A3F&icon=adobeillustrator.svg&icon_color=%23DFBE86&title=+Number+of+Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcottonsweet%2Fhit-counter&count_bg=%23866A3D&title_bg=%23585A3F&icon=adobeillustrator.svg&icon_color=%23DFBE86&title=+Number+of+Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=sstipdev&data=followers,repositories,stars,commits&theme=carbon"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=cottonsweet&data=followers,repositories,stars,commits&theme=carbon"/>
 
-```🛠Tech Stacks🛠```
+`🛠Tech Stacks🛠`
 
 #### 프론트
 
@@ -76,10 +76,10 @@
 
   <br/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sstipdev&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cottonsweet&layout=compact&theme=vue-dark)
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sstipdev&show_icons=true&theme=city_lights)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sstipdev&theme=tokyonight)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cottonsweet&show_icons=true&theme=city_lights)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cottonsweet&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
