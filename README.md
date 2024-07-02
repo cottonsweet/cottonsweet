@@ -60,18 +60,12 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white" />
   </div>
 
-#### ETC
-
-  <div class="etc">
-    <img src="https://img.shields.io/badge/lua-000080?style=flat&logo=lua&logoColor=white" />
-  </div>
-
 ---
 
 #### List
 
   <div>
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=HTML5,CSS3,sass,JavaScript,TypeScript,Lua,json&frameworks=ReactJS,NextJS,Bootstrap,TailwindCSS&libraries=jQuery&tools=Git,nodejs,NPM,Yarn,Firebase,AWS,Vercel&includeNames=true&software=windows,vscode" >
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=HTML5,CSS3,sass,JavaScript,TypeScript,json&frameworks=ReactJS,NextJS,Bootstrap,TailwindCSS&libraries=jQuery&tools=Git,nodejs,NPM,Yarn,Firebase,AWS,Vercel&includeNames=true&software=windows,vscode" >
   </div>
 
   <br/>
