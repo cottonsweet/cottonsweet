@@ -76,5 +76,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cottonsweet&show_icons=true&theme=city_lights)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cottonsweet&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitecandy777)](https://solved.ac/whitecandy777/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitecandy777)](https://solved.ac/whitecandy777/) -->
 </div>
