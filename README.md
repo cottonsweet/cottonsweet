@@ -61,9 +61,10 @@
   </div>
 
 ---
+<!--
 
 #### List
-<!--
+
   <div>
     <img src="https://github-widgetbox.vercel.app/api/skills?languages=HTML5,CSS3,sass,JavaScript,TypeScript,json&frameworks=ReactJS,NextJS,Bootstrap,TailwindCSS&libraries=jQuery&tools=Git,nodejs,NPM,Yarn,Firebase,AWS,Vercel&includeNames=true&software=windows,vscode" >
   </div>
