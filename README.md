@@ -8,8 +8,9 @@
 
 `🛠Tech Stacks🛠`
 
+<!--
 #### 프론트
-
+-->
   <div class="default">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -20,6 +21,7 @@
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-1A73E8?style=flat&logo=Firebase&logoColor=FFCC32" />
   </div>
 
   <div class="state-management-tool">
@@ -44,11 +46,9 @@
     <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
   </div>
 
+<!--
 #### 백엔드
-
-  <div>
-    <img src="https://img.shields.io/badge/Firebase-1A73E8?style=flat&logo=Firebase&logoColor=FFCC32" />
-  </div>
+-->
 
 #### 버전관리/배포
 
